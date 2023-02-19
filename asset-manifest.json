@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/youtdownloader/static/css/main.a859cf89.css",
-    "main.js": "/youtdownloader/static/js/main.e587a2d5.js",
+    "main.js": "/youtdownloader/static/js/main.365ba302.js",
     "static/media/chrome.gif": "/youtdownloader/static/media/chrome.a3e44c28a63f8075d46d.gif",
     "static/media/firefox.gif": "/youtdownloader/static/media/firefox.b29d37dbeaedc2e484ea.gif",
     "static/media/image-error.png": "/youtdownloader/static/media/image-error.651b58eff2cbd8527d59.png",
     "static/media/image-tutorial.png": "/youtdownloader/static/media/image-tutorial.bd9088b772fe08d19613.png",
     "index.html": "/youtdownloader/index.html",
     "main.a859cf89.css.map": "/youtdownloader/static/css/main.a859cf89.css.map",
-    "main.e587a2d5.js.map": "/youtdownloader/static/js/main.e587a2d5.js.map"
+    "main.365ba302.js.map": "/youtdownloader/static/js/main.365ba302.js.map"
   },
   "entrypoints": [
     "static/css/main.a859cf89.css",
-    "static/js/main.e587a2d5.js"
+    "static/js/main.365ba302.js"
   ]
 }
