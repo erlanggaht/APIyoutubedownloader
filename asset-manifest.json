@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/youtdownloader/static/css/main.a859cf89.css",
-    "main.js": "/youtdownloader/static/js/main.365ba302.js",
-    "static/media/chrome.gif": "/youtdownloader/static/media/chrome.a3e44c28a63f8075d46d.gif",
-    "static/media/firefox.gif": "/youtdownloader/static/media/firefox.b29d37dbeaedc2e484ea.gif",
-    "static/media/image-error.png": "/youtdownloader/static/media/image-error.651b58eff2cbd8527d59.png",
-    "static/media/image-tutorial.png": "/youtdownloader/static/media/image-tutorial.bd9088b772fe08d19613.png",
-    "index.html": "/youtdownloader/index.html",
-    "main.a859cf89.css.map": "/youtdownloader/static/css/main.a859cf89.css.map",
-    "main.365ba302.js.map": "/youtdownloader/static/js/main.365ba302.js.map"
+    "main.css": "/youtdownload/static/css/main.a859cf89.css",
+    "main.js": "/youtdownload/static/js/main.ead15276.js",
+    "static/media/chrome.gif": "/youtdownload/static/media/chrome.a3e44c28a63f8075d46d.gif",
+    "static/media/firefox.gif": "/youtdownload/static/media/firefox.b29d37dbeaedc2e484ea.gif",
+    "static/media/image-error.png": "/youtdownload/static/media/image-error.651b58eff2cbd8527d59.png",
+    "static/media/image-tutorial.png": "/youtdownload/static/media/image-tutorial.bd9088b772fe08d19613.png",
+    "index.html": "/youtdownload/index.html",
+    "main.a859cf89.css.map": "/youtdownload/static/css/main.a859cf89.css.map",
+    "main.ead15276.js.map": "/youtdownload/static/js/main.ead15276.js.map"
   },
   "entrypoints": [
     "static/css/main.a859cf89.css",
-    "static/js/main.365ba302.js"
+    "static/js/main.ead15276.js"
   ]
 }
